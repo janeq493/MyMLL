@@ -1,1 +1,1 @@
-from SVM import SVM
+from .SVM import SVM
